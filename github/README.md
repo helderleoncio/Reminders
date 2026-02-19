@@ -1,6 +1,6 @@
 # Comandos Essenciais do Git
 
-Um guia rápido de referência com os principais comandos do Git, organizados por categorias para facilitar o dia a dia do desenvolvimento.
+Um guia de referência com os principais comandos do Git, organizados por categorias.
 
 ## 🌱 Básicos
 
